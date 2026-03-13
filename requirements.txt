@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+groq
+yfinance
+streamlit
+newsapi-python
+python-dotenv

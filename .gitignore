@@ -1,0 +1,6 @@
+finsight-env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.streamlit/
