@@ -88,7 +88,7 @@ streamlit run app.py
 
 ## 📸 Demo
 
-> Enter a stock ticker or sector → Hit Analyze → Get a full research report in minutes!
+![Finsight AI Demo](assets/demo.gif)
 
 ---
 
